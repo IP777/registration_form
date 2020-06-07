@@ -1,0 +1,15 @@
+.head_wrapper {
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	width: 100vw;
+	height: 70px;
+	background-color: cornflowerblue;
+}
+
+.logo {
+	color: #fff;
+	font-size: 30px;
+	margin-left: 20px;
+	text-transform: uppercase;
+}

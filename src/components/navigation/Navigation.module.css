@@ -1,0 +1,13 @@
+.nav_list {
+	display: flex;
+	list-style: none;
+}
+
+.link {
+	color: brown;
+	margin-right: 17px;
+}
+
+.active_link {
+	color: cadetblue;
+}
